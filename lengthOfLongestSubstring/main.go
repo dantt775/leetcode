@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(lengthOfLongestSubstring("abcabcdbb"))
+	//fmt.Println(lengthOfLongestSubstring("abcabcdbb"))
 	fmt.Println(lengthOfLongestSubstringSlice([]string{"a", "b", "b", "a"}))
 }
 
